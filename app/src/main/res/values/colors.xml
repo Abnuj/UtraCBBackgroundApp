@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#F44336</color>
+    <!--    this is color of status bar purple 700 -->
+    <color name="purple_700">#D1022F</color>
+    <color name="teal_200">#D1022F</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="home_end_gradient">#122545</color>
+    <color name="home_start_gradient">#203354</color>
+
+    <color name="status_bar">#070707</color>
+    <color name="toolbar_color">#201F1F</color>
+    <color name="attendance_red">#880E4F</color>
+    <color name="distance_black">#434343</color>
+    <color name="leaves_yellow">#AAB81F</color>
+    <color name="expanses_orange">#FFC107</color>
+    <color name="InputBg">#D3D3D3</color>
+    <color name="red_tint_color">#F44336</color>
+    <color name="expense_dark_orange">#F44336</color>
+
+
+    <color name="skyBlue">#03A9F4</color>
+    <color name="skyRed">#FF6D62</color>
+    <color name="evidence_yellow">#FFC107</color>
+    <color name="light_gray">#E1C8C8C8</color>
+    <color name="very_light_blue">#0E5167</color>
+
+    <color name="date_task_green">#d4ecd8</color>
+    <color name="date_task_blue">#d7eef4</color>
+    <color name="date_task_purple">#dcd5ed</color>
+    <color name="date_task_red">#F3DAD8</color>
+
+    <color name="dot2">#D1022F</color>
+    <color name="dot3">#6700FF</color>
+
+    <color name="blue_tint_color">#009688</color>
+    <color name="light_black_text_color">#5A5959</color>
+    <color name="light_green_tint">#3EE445</color>
+    <color name="gray_tint">#C3979696</color>
+
+</resources>
